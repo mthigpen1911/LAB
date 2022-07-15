@@ -1,1 +1,1 @@
-<PHP print "This box has been pwned"; ?>
+<?PHP print "This box has been pwned"; ?>
